@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bind9:
+  - apiVersion: v2
+    appVersion: 9.16-20.04_beta
+    created: "2023-07-28T13:55:38.464897002Z"
+    description: A Helm chart for Kubernetes
+    digest: 33bbf05c52298c5a866b1c032d3bb18ea8297c8e81e8b5e5e662876437e0312e
+    name: bind9
+    type: application
+    urls:
+    - https://github.com/artem-shestakov/helm-charts/releases/download/bind9-1.0.0/bind9-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-07-28T13:55:38.464907702Z"
